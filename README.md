@@ -1,5 +1,5 @@
-#Experiment Satndard-Calculator
-#AIM
+# Experiment Satndard-Calculator
+# AIM
 To develop a simple Calculator in HTML using CSS.
 
 ### Step 1:
